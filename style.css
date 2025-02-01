@@ -23,9 +23,10 @@ body {
   background-color: red;
   width: 200px;
   height: 45px;
-  margin-bottom: -30px;
   position: relative;
   border-radius: 10px;
+  top: 30px;
+  left: 10px;
 }
 .content {
   box-sizing: border-box;
